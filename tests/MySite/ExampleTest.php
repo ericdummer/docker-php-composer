@@ -2,6 +2,7 @@
 
 namespace App;
 
+use App\MySite\Example;
 use PHPUnit\Framework\TestCase;
 
 class ExampleTest extends TestCase
